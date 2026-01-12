@@ -1,0 +1,27 @@
+# Node / React
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.env
+
+# Build output
+dist/
+build/
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+
+# OS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# ASP.NET Core secrets
+appsettings.Development.json
